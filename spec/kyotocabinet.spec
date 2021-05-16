@@ -1,0 +1,1 @@
+../src/pkg-kyotocabinet/rpm/kyotocabinet.spec
