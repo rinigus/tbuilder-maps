@@ -1,0 +1,1 @@
+../src/pkg-mapbox-gl-native/rpm/mapbox-gl-native.spec

@@ -1,0 +1,1 @@
+../src/pkg-marisa/rpm/marisa.spec

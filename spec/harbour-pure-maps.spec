@@ -1,0 +1,1 @@
+../src/pure-maps/rpm/harbour-pure-maps.spec

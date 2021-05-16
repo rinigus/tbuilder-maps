@@ -1,0 +1,1 @@
+../src/osmscout-server/rpm/harbour-osmscout-server.spec

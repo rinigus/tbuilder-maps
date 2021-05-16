@@ -1,0 +1,45 @@
+[submodule "src/pkg-date"]
+	path = src/pkg-date
+	url = https://github.com/rinigus/pkg-date
+[submodule "src/osmscout-server"]
+	path = src/osmscout-server
+	url = https://github.com/rinigus/osmscout-server
+[submodule "src/pure-maps"]
+	path = src/pure-maps
+	url = https://github.com/rinigus/pure-maps
+[submodule "src/pkg-jq"]
+	path = src/pkg-jq
+	url = https://github.com/rinigus/pkg-jq
+[submodule "src/pkg-kyotocabinet"]
+	path = src/pkg-kyotocabinet
+	url = https://github.com/rinigus/pkg-kyotocabinet
+[submodule "src/pkg-libmicrohttpd"]
+	path = src/pkg-libmicrohttpd
+	url = https://github.com/rinigus/pkg-libmicrohttpd
+[submodule "src/pkg-libpostal"]
+	path = src/pkg-libpostal
+	url = https://github.com/rinigus/pkg-libpostal
+[submodule "src/pkg-lz4"]
+	path = src/pkg-lz4
+	url = https://github.com/rinigus/pkg-lz4
+[submodule "src/pkg-mapbox-gl-native"]
+	path = src/pkg-mapbox-gl-native
+	url = https://github.com/rinigus/pkg-mapbox-gl-native
+[submodule "src/mapbox-gl-qml"]
+	path = src/mapbox-gl-qml
+	url = https://github.com/rinigus/mapbox-gl-qml
+[submodule "src/pkg-mapnik"]
+	path = src/pkg-mapnik
+	url = https://github.com/rinigus/pkg-mapnik
+[submodule "src/pkg-marisa"]
+	path = src/pkg-marisa
+	url = https://github.com/rinigus/pkg-marisa
+[submodule "src/pkg-proj"]
+	path = src/pkg-proj
+	url = https://github.com/rinigus/pkg-proj
+[submodule "src/s2geometry"]
+	path = src/s2geometry
+	url = https://github.com/rinigus/s2geometry
+[submodule "src/pkg-valhalla-lite"]
+	path = src/pkg-valhalla-lite
+	url = https://github.com/rinigus/pkg-valhalla-lite

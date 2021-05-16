@@ -1,0 +1,21 @@
+project: maps
+
+targets:
+  - SailfishOS-4.1.0.23-aarch64
+  - SailfishOS-4.1.0.23-armv7hl
+  - SailfishOS-4.1.0.23-i486
+
+rpms: RPMS
+
+buildoptions: -j6
+
+macros:
+  - sailfish_build 1
+
+shadow_builds:
+  - harbour-osmscout-server.spec
+  - harbour-pure-maps.spec
+  - mapbox-gl-native.spec
+  - mapbox-gl-qml.spec
+  - s2geometry.spec
+  - valhalla-lite-devel.spec

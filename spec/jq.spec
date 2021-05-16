@@ -1,0 +1,1 @@
+../src/pkg-jq/rpm/jq.spec

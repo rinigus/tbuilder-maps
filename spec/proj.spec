@@ -1,0 +1,1 @@
+../src/pkg-proj/rpm/proj.spec

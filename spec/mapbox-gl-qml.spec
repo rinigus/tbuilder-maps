@@ -1,0 +1,1 @@
+../src/mapbox-gl-qml/rpm/mapbox-gl-qml.spec

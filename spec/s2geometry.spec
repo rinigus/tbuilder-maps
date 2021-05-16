@@ -1,0 +1,1 @@
+../src/s2geometry/rpm/s2geometry.spec

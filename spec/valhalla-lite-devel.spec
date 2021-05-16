@@ -1,0 +1,1 @@
+../src/pkg-valhalla-lite/rpm/valhalla-lite-devel.spec

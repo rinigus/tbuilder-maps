@@ -1,0 +1,1 @@
+../src/pkg-libpostal/rpm/libpostal.spec
