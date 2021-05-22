@@ -1,9 +1,9 @@
 project: maps
 
 targets:
-  - SailfishOS-4.1.0.23-aarch64
-  - SailfishOS-4.1.0.23-armv7hl
-  - SailfishOS-4.1.0.23-i486
+  - SailfishOS-4.0.1.48-armv7hl
+  - SailfishOS-4.0.1.48-aarch64
+  - SailfishOS-4.0.1.48-i486
 
 rpms: RPMS
 
