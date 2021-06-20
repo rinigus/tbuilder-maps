@@ -9,13 +9,16 @@ rpms: RPMS
 
 buildoptions: -j6
 
+options:
+  - keep-release-from-spec
+
 macros:
   - sailfish_build 1
+  - jollastore 1
+  - _buildhost tbuilder
 
 shadow_builds:
   - harbour-osmscout-server.spec
   - harbour-pure-maps.spec
-  - mapbox-gl-native.spec
-  - mapbox-gl-qml.spec
   - s2geometry.spec
   - valhalla-lite-devel.spec
